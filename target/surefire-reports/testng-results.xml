@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="26692" started-at="2019-11-18T00:05:20Z" finished-at="2019-11-18T00:05:46Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="26692" started-at="2019-11-18T00:05:20Z" finished-at="2019-11-18T00:05:46Z">
+      <class name="com.automationTest.AddToWishListTestCase">
+        <test-method status="PASS" signature="SetDriver()[pri:0, instance:com.automationTest.AddToWishListTestCase@1d251891]" name="SetDriver" is-config="true" duration-ms="9931" started-at="2019-11-18T11:05:20Z" finished-at="2019-11-18T11:05:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetDriver -->
+        <test-method status="PASS" signature="addToWishlist()[pri:0, instance:com.automationTest.AddToWishListTestCase@1d251891]" name="addToWishlist" duration-ms="16500" started-at="2019-11-18T11:05:30Z" finished-at="2019-11-18T11:05:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addToWishlist -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:com.automationTest.AddToWishListTestCase@1d251891]" name="afterTest" is-config="true" duration-ms="246" started-at="2019-11-18T11:05:46Z" finished-at="2019-11-18T11:05:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- com.automationTest.AddToWishListTestCase -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
